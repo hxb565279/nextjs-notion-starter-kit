@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'hxb's blog',
+  name: 'hxb',
   domain: 'https://hxb-22779799.notion.site/47825ff2784842e3a4a3b15b41aca6ae?v=122aefb49d814203b33425215f6bfb89',
   author: 'hxb',
 
